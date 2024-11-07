@@ -12,9 +12,7 @@ Je suis étudiante en informatique à l'École Polytechnique de l'Université Gr
 🌍 N'hésitez pas à me contacter par mail (elkanbi.asmae@gmail.com) ou sur LinkedIn.
 
 
-
-
-
+<br><br><br><br>
 
 
 **EN 🇬🇧**
