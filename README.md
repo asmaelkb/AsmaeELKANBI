@@ -11,6 +11,12 @@ Je suis étudiante en informatique à l'École Polytechnique de l'Université Gr
 
 🌍 N'hésitez pas à me contacter par mail (elkanbi.asmae@gmail.com) ou sur LinkedIn.
 
+
+
+
+
+
+
 **EN 🇬🇧**
 
 I'm a computer science student at Grenoble Alpes Polytechnic University, passionate about software development and DevOps. Curious and always eager to learn, I'm exploring best practices to make my projects more efficient and automated.
